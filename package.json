@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",
+    "lucide-react": "^0.460.0",
     "next": "15.0.3",
     "next-app": "file:",
     "next-auth": "^5.0.0-beta.25",
